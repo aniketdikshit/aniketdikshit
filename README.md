@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aniketdikshit
-- 👀 I’m interested in python , Revit API , Dynamo , Data Science , Automation
+- 👀 I’m interested in python , Revit API,Rhino Common , Dynamo , Data Science , Automation
 - 🌱 I’m currently learning Python,Iron Python , Go Lang , C#
 - 💞️ I’m looking to collaborate on Revit/Dynamo/Grasshopper/Rhino Projects
 - 📫 How to reach me ad3538@columbia.edu
