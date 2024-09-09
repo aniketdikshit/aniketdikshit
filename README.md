@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a developer passionate about:
 - **Automation** using the **Revit API**, **RhinoCommon**, and **Dynamo**
-- **Data Science** and **Python** and **C#**
+- **Data Science**, **Python** and **C#**
 
 Always expanding my skills in:
 - **Python**, **IronPython**, **GoLang**, and **C#**
