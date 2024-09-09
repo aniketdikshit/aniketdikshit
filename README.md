@@ -18,8 +18,8 @@ Always expanding my skills in:
 ---
 
 ## 🔥 What I'm Working On
-- [ ] Revit API/Dynamo project collaboration
-- [ ] Automating workflows with Python
+- Revit API/Dynamo project collaboration
+-  Automating workflows with Python and C#
 
 ---
 
@@ -33,9 +33,4 @@ I'm open to new opportunities to collaborate on projects related to:
 
 ## 📫 Get In Touch
 - **Email**: [aniket.dikshit@gmail.com](mailto:aniket.dikshit@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/aniketdikshit/)
-
----
-
-## 🌟 GitHub Stats
-![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketdikshit&show_icons=true&theme=radical)
+- **LinkedIn**: [AniketDikshit](https://www.linkedin.com/in/aniketdikshit/)
